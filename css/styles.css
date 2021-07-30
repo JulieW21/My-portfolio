@@ -1,0 +1,40 @@
+h1{
+  Color: Darkblue;
+  font-style: normal;
+  background-color: yellow;
+  font-size: 34px;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+  padding-top: 2%;
+}
+body{
+  background-color: silver;
+}
+h2{
+  font-family: Lucida;
+  font-weight: bold;
+  font-size: 40px:
+  background-color: blue:
+
+}
+img{
+  float: center;
+}
+head{
+  font-size: 100%;
+  text-align: center;
+  background-color: yellow;
+}
+p{
+  text-align: center;
+  font-style: italic;
+  border: 6px blue;
+}
+p {
+    font-size: 18px;
+}
+.head{
+  text-align: left;
+  font-weight: bold;
+  font-size: 60px;
+}
